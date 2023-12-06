@@ -1,0 +1,127 @@
+etherpad: None/p/meetings-MSG
+group_type: 2
+name: MSG
+---
+etherpad: None/p/meetings-Tech
+group_type: 3
+name: Tech
+---
+etherpad: https://etherpad.mindspore.cn/p/meetings-DevelopereXperience
+group_type: 1
+name: DevelopereXperience
+---
+etherpad: https://etherpad.mindspore.cn/p/meetings-Trusted AI
+group_type: 1
+name: Trusted AI
+---
+etherpad: https://etherpad.mindspore.cn/p/meetings-Usability
+group_type: 1
+name: Usability
+---
+etherpad: https://etherpad.mindspore.cn/p/meetings-FrontEnd
+group_type: 1
+name: FrontEnd
+---
+etherpad: https://etherpad.mindspore.cn/p/meetings-Compiler
+group_type: 1
+name: Compiler
+---
+etherpad: https://etherpad.mindspore.cn/p/meetings-Executor
+group_type: 1
+name: Executor
+---
+etherpad: https://etherpad.mindspore.cn/p/meetings-ModelZoo
+group_type: 1
+name: ModelZoo
+---
+etherpad: https://etherpad.mindspore.cn/p/meetings-Data
+group_type: 1
+name: Data
+---
+etherpad: https://etherpad.mindspore.cn/p/meetings-Visualization
+group_type: 1
+name: Visualization
+---
+etherpad: https://etherpad.mindspore.cn/p/meetings-MSLITE
+group_type: 1
+name: MSLITE
+---
+etherpad: https://etherpad.mindspore.cn/p/meetings-Parallel
+group_type: 1
+name: Parallel
+---
+etherpad: https://etherpad.mindspore.cn/p/meetings-DataCompliance
+group_type: 1
+name: DataCompliance
+---
+etherpad: https://etherpad.mindspore.cn/p/meetings-MindQuantum
+group_type: 1
+name: MindQuantum
+---
+etherpad: https://etherpad.mindspore.cn/p/meetings-CulturalTourism
+group_type: 1
+name: CulturalTourism
+---
+etherpad: https://etherpad.mindspore.cn/p/meetings-DeviceAdapter
+group_type: 1
+name: DeviceAdapter
+---
+etherpad: https://etherpad.mindspore.cn/p/meetings-graphlearning
+group_type: 1
+name: graphlearning
+---
+etherpad: https://etherpad.mindspore.cn/p/meetings-mdp
+group_type: 1
+name: mdp
+---
+etherpad: https://etherpad.mindspore.cn/p/meetings-MedicalImaging
+group_type: 1
+name: MedicalImaging
+---
+etherpad: https://etherpad.mindspore.cn/p/meetings-mindelec
+group_type: 1
+name: mindelec
+---
+etherpad: https://etherpad.mindspore.cn/p/meetings-mindflow
+group_type: 1
+name: mindflow
+---
+etherpad: https://etherpad.mindspore.cn/p/meetings-mindquantfinance
+group_type: 1
+name: mindquantfinance
+---
+etherpad: https://etherpad.mindspore.cn/p/meetings-mindspore_reinforcement
+group_type: 1
+name: mindspore_reinforcement
+---
+etherpad: https://etherpad.mindspore.cn/p/meetings-mindspore_sponge
+group_type: 1
+name: mindspore_sponge
+---
+etherpad: https://etherpad.mindspore.cn/p/meetings-RobotVision
+group_type: 1
+name: RobotVision
+---
+etherpad: https://etherpad.mindspore.cn/p/meetings-TimeSequence
+group_type: 1
+name: TimeSequence
+---
+etherpad: https://etherpad.mindspore.cn/p/meetings-Research
+group_type: 1
+name: Research
+---
+etherpad: https://etherpad.mindspore.cn/p/meetings-MM
+group_type: 1
+name: MM
+---
+etherpad: https://etherpad.mindspore.cn/p/meetings-Doc
+group_type: 1
+name: Doc
+---
+etherpad: https://etherpad.mindspore.cn/p/meetings-AI4EARTH
+group_type: 1
+name: AI4EARTH
+---
+etherpad: https://etherpad.mindspore.cn/p/meetings-QUANTUM
+group_type: 1
+name: QUANTUM
